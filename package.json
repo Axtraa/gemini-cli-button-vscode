@@ -2,7 +2,7 @@
   "name": "gemini-cli-button-vscode",
   "displayName": "Gemini CLI Button For Visual Studio Code",
   "description": "Adds a button to the editor title bar to open Gemini CLI in VS Code.",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "publisher": "Axtra",
   "keywords": [
