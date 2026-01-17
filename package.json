@@ -39,6 +39,16 @@
           "group": "navigation"
         }
       ]
+    },
+    "configuration": {
+      "title": "Gemini CLI Button",
+      "properties": {
+        "gemini.yoloMode": {
+          "type": "boolean",
+          "default": false,
+          "description": "Enable YOLO mode (adds -y flag to skip confirmations)."
+        }
+      }
     }
   },
   "scripts": {
